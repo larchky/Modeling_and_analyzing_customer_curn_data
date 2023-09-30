@@ -1,2 +1,2 @@
 # Modeling_and_analyzing_customer_curn_data
-The data set contains a bank customer data based on churn activities which is associated with some features which are, CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, Exited
+The data set contains a bank customer data based on churn activities which is associated with some features which are, CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember and EstimatedSalary. The data was modelled with three machine learning algorithms, logistic reggression, KNN and Decision tree. The notebook contain analysis on the data and modelling
